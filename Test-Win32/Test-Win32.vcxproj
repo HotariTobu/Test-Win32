@@ -173,6 +173,7 @@
     <ClInclude Include="3_09.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="5_01.h" />
+    <ClInclude Include="SoundWave.h" />
     <ClInclude Include="test_GetOpenFileName.h" />
     <ClInclude Include="WaveOpen.h" />
   </ItemGroup>

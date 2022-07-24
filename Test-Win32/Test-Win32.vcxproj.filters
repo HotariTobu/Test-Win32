@@ -60,9 +60,6 @@
     <ClInclude Include="5_01.h">
       <Filter>ソース ファイル\step_5</Filter>
     </ClInclude>
-    <ClInclude Include="WaveOpen.h">
-      <Filter>ヘッダー ファイル</Filter>
-    </ClInclude>
     <ClInclude Include="3_09.h">
       <Filter>ソース ファイル\step_3</Filter>
     </ClInclude>
@@ -210,9 +207,15 @@
     <ClInclude Include="test_GetOpenFileName.h">
       <Filter>ソース ファイル</Filter>
     </ClInclude>
+    <ClInclude Include="SoundWave.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="WaveOpen.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="Test.rc">
+    <ResourceCompile Include="Test-Win32.rc">
       <Filter>リソース ファイル</Filter>
     </ResourceCompile>
   </ItemGroup>
