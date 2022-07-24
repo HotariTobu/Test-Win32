@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\step_1">
+      <UniqueIdentifier>{2f2eeb05-4714-4475-8f1c-24422c59ad95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\step_2">
+      <UniqueIdentifier>{728b81e0-1b7c-4299-83a9-18189c4b3423}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\step_3">
+      <UniqueIdentifier>{9bb0c5f5-8982-4135-b69b-608a659d2c2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\step_4">
+      <UniqueIdentifier>{48c78ea0-ecad-4c94-b9ef-e67c86472f0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\step_5">
+      <UniqueIdentifier>{bf243e6a-efac-4ea9-9416-80a90feb2853}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\step_1\1_001-010">
+      <UniqueIdentifier>{84b1a329-3ca8-4a08-9009-17848853430c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\step_1\1_011-020">
+      <UniqueIdentifier>{da87547c-2dc1-4b5e-8da8-6617547b9414}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\step_1\1_021-030">
+      <UniqueIdentifier>{ad3c8682-0b34-45fd-a0c4-210be2af40ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\step_1\1_031-040">
+      <UniqueIdentifier>{9c31f00e-4385-4d60-ac5e-ae7fba4fe493}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\step_1\1_041-050">
+      <UniqueIdentifier>{ef315b49-186a-4431-a147-0fd9e524ff7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\step_1\1_051-060">
+      <UniqueIdentifier>{651fceb9-ac9f-4976-9282-178fb3b6edb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\step_1\1_061-070">
+      <UniqueIdentifier>{210a8816-9b68-4d0c-837b-be054cd615c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\step_1\1_071-080">
+      <UniqueIdentifier>{39fd558e-9799-49ce-b27c-cfcd7b443429}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="5_01.h">
+      <Filter>ソース ファイル\step_5</Filter>
+    </ClInclude>
+    <ClInclude Include="WaveOpen.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="3_09.h">
+      <Filter>ソース ファイル\step_3</Filter>
+    </ClInclude>
+    <ClInclude Include="3_05.h">
+      <Filter>ソース ファイル\step_3</Filter>
+    </ClInclude>
+    <ClInclude Include="1_002.h">
+      <Filter>ソース ファイル\step_1\1_001-010</Filter>
+    </ClInclude>
+    <ClInclude Include="1_005.h">
+      <Filter>ソース ファイル\step_1\1_001-010</Filter>
+    </ClInclude>
+    <ClInclude Include="1_006.h">
+      <Filter>ソース ファイル\step_1\1_001-010</Filter>
+    </ClInclude>
+    <ClInclude Include="1_007.h">
+      <Filter>ソース ファイル\step_1\1_001-010</Filter>
+    </ClInclude>
+    <ClInclude Include="1_008.h">
+      <Filter>ソース ファイル\step_1\1_001-010</Filter>
+    </ClInclude>
+    <ClInclude Include="1_009.h">
+      <Filter>ソース ファイル\step_1\1_001-010</Filter>
+    </ClInclude>
+    <ClInclude Include="1_010.h">
+      <Filter>ソース ファイル\step_1\1_001-010</Filter>
+    </ClInclude>
+    <ClInclude Include="1_011.h">
+      <Filter>ソース ファイル\step_1\1_011-020</Filter>
+    </ClInclude>
+    <ClInclude Include="1_012.h">
+      <Filter>ソース ファイル\step_1\1_011-020</Filter>
+    </ClInclude>
+    <ClInclude Include="1_013.h">
+      <Filter>ソース ファイル\step_1\1_011-020</Filter>
+    </ClInclude>
+    <ClInclude Include="1_014.h">
+      <Filter>ソース ファイル\step_1\1_011-020</Filter>
+    </ClInclude>
+    <ClInclude Include="1_015.h">
+      <Filter>ソース ファイル\step_1\1_011-020</Filter>
+    </ClInclude>
+    <ClInclude Include="1_016.h">
+      <Filter>ソース ファイル\step_1\1_011-020</Filter>
+    </ClInclude>
+    <ClInclude Include="1_017.h">
+      <Filter>ソース ファイル\step_1\1_011-020</Filter>
+    </ClInclude>
+    <ClInclude Include="1_018.h">
+      <Filter>ソース ファイル\step_1\1_011-020</Filter>
+    </ClInclude>
+    <ClInclude Include="1_019.h">
+      <Filter>ソース ファイル\step_1\1_011-020</Filter>
+    </ClInclude>
+    <ClInclude Include="1_020_1.h">
+      <Filter>ソース ファイル\step_1\1_011-020</Filter>
+    </ClInclude>
+    <ClInclude Include="1_020_2.h">
+      <Filter>ソース ファイル\step_1\1_011-020</Filter>
+    </ClInclude>
+    <ClInclude Include="1_021.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_022.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_023_1.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_023_2.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_023_3.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_024_1.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_024_2.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_024_3.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_025.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_026_1.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_026_2.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_026_3.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_027_1.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_027_2.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_027_3.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_028.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_029.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_030_1.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_030_2.h">
+      <Filter>ソース ファイル\step_1\1_021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="1_031.h">
+      <Filter>ソース ファイル\step_1\1_031-040</Filter>
+    </ClInclude>
+    <ClInclude Include="1_032.h">
+      <Filter>ソース ファイル\step_1\1_031-040</Filter>
+    </ClInclude>
+    <ClInclude Include="1_033.h">
+      <Filter>ソース ファイル\step_1\1_031-040</Filter>
+    </ClInclude>
+    <ClInclude Include="1_034_1.h">
+      <Filter>ソース ファイル\step_1\1_031-040</Filter>
+    </ClInclude>
+    <ClInclude Include="1_034_2.h">
+      <Filter>ソース ファイル\step_1\1_031-040</Filter>
+    </ClInclude>
+    <ClInclude Include="1_051.h">
+      <Filter>ソース ファイル\step_1\1_051-060</Filter>
+    </ClInclude>
+    <ClInclude Include="1_034_3.h">
+      <Filter>ソース ファイル\step_1\1_031-040</Filter>
+    </ClInclude>
+    <ClInclude Include="1_034_4.h">
+      <Filter>ソース ファイル\step_1\1_031-040</Filter>
+    </ClInclude>
+    <ClInclude Include="1_034_5.h">
+      <Filter>ソース ファイル\step_1\1_031-040</Filter>
+    </ClInclude>
+    <ClInclude Include="test_GetOpenFileName.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Test.rc">
+      <Filter>リソース ファイル</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
